@@ -1,0 +1,17 @@
+two card games example for design space
+
+lets say both have 4 mechanics
+type, color, timing and effects
+
+game 1 has respectively 2, 5, 2 and 500 variations of these mechanics
+but 
+game 2 has 10, 10, 10, and 10 variations,
+
+if you multiply the combinations:
+2 * 5 * 2 * 500 	= 10 000
+10 * 10 * 10 * 10	= 10 000
+
+The possible cards are the same for both,
+but 
+the mechanics the player has to memorize are 509 for game 1
+and 40 for game 2, game 2 is easier to learn.
